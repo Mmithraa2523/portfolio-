@@ -399,6 +399,9 @@ nav .fas{
     .copyright{
         font-size: 14px;
     }
+    #services{
+        padding-left: 15px
+    }
 
 }
 #msg{
